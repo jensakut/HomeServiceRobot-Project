@@ -1,0 +1,5 @@
+turtlebot_interactions/turtlebot_dashboard
+/home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/.private/turtlebot_dashboard/cmake.lock /home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/./cmake.lock
+/home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake /home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig-version.cmake
+/home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/.private/turtlebot_dashboard/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake /home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/share/turtlebot_dashboard/cmake/turtlebot_dashboardConfig.cmake
+/home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/.private/turtlebot_dashboard/lib/pkgconfig/turtlebot_dashboard.pc /home/jak/Documents/HomeServiceRobot-Project/catkin_ws/devel/lib/pkgconfig/turtlebot_dashboard.pc
